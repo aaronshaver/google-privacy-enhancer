@@ -1,11 +1,11 @@
 Google Privacy Enhancer
 =====================
 
-Are you worried about websites assembling a profile on you based on your search engine history? Would you like your searching to be more private?
+Are you worried about Google assembling a profile on you based on your search engine history?
 
-Google Privacy Enhancer performs random searches at random intervals while you are logged into your Google account for as long as you let it run. This acts to "fuzz" your search history, making it difficult for Google or other parties -- such as anyone monitoring your web traffic over the wire -- to assemble a profile on you.
+Google Privacy Enhancer performs random searches at random intervals while you are logged into your Google account. This "fuzzes" your search history, making it difficult for Google or other parties -- such as anyone monitoring your web traffic over the wire -- to assemble a profile on you. This doesn't guarantee privacy or anonymity, but should frustrate the efforts of those who would like to follow you, analyze you, and sell to you on the web.
 
-Google Privacy Enhancer interacts with Google.com, but it could be adapted for use with other sites, such as Amazon.com. (Have you noticed your Amazon search history influencing targeted ads on sites other than Amazon? I have!)
+Google Privacy Enhancer interacts with Google.com, but it could be adapted for use with other sites, such as Amazon.com. (Have you noticed your Amazon search history influencing targeted ads on sites other than Amazon? It happens!)
 
 Installation and Usage
 ------------
