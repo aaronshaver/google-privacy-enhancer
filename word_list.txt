@@ -1,0 +1,1256 @@
+a
+about
+act
+add
+after
+again
+air
+all
+also
+an
+and
+animal
+answer
+any
+are
+as
+ask
+at
+back
+be
+been
+before
+between
+big
+boy
+build
+but
+by
+call
+came
+can
+cause
+change
+city
+close
+come
+could
+country
+cover
+cross
+day
+did
+differ
+do
+does
+don't
+down
+draw
+each
+earth
+end
+even
+every
+eye
+far
+farm
+father
+few
+find
+first
+follow
+food
+for
+form
+found
+four
+from
+get
+give
+go
+good
+great
+grow
+had
+hand
+hard
+has
+have
+he
+head
+help
+her
+here
+him
+his
+home
+hot
+house
+how
+I
+if
+in
+is
+it
+just
+keep
+kind
+know
+land
+large
+last
+late
+learn
+left
+let
+life
+light
+like
+line
+little
+live
+long
+look
+low
+made
+make
+man
+many
+may
+me
+mean
+men
+might
+more
+most
+mother
+move
+much
+must
+my
+name
+near
+need
+never
+new
+night
+no
+north
+now
+number
+of
+off
+old
+on
+one
+only
+or
+other
+our
+out
+over
+own
+page
+part
+people
+picture
+place
+plant
+play
+point
+port
+press
+put
+read
+real
+right
+round
+run
+said
+same
+saw
+say
+school
+sea
+see
+self
+sentence
+set
+she
+should
+show
+side
+small
+so
+some
+sound
+spell
+stand
+start
+state
+still
+story
+study
+such
+sun
+take
+tell
+than
+that
+the
+their
+them
+then
+there
+these
+they
+thing
+think
+this
+thought
+three
+through
+time
+to
+too
+tree
+try
+turn
+two
+under
+up
+us
+use
+very
+want
+was
+water
+way
+we
+well
+went
+were
+what
+when
+where
+which
+while
+who
+why
+will
+with
+word
+work
+world
+would
+write
+year
+you
+your
+Alabama
+Alaska
+American Samoa
+Arizona
+Arkansas
+California
+Colorado
+Connecticut
+Delaware
+District of Columbia
+Florida
+Georgia
+Guam
+Hawaii
+Idaho
+Illinois
+Indiana
+Iowa
+Kansas
+Kentucky
+Louisiana
+Maine
+Maryland
+Massachusetts
+Michigan
+Minnesota
+Mississippi
+Missouri
+Montana
+Nebraska
+Nevada
+New Hampshire
+New Jersey
+New Mexico
+New York
+North Carolina
+North Dakota
+Northern Marianas Islands
+Ohio
+Oklahoma
+Oregon
+Pennsylvania
+Puerto Rico
+Rhode Island
+South Carolina
+South Dakota
+Tennessee
+Texas
+Utah
+Vermont
+Virginia
+Virgin Islands
+Washington
+West Virginia
+Wisconsin
+Wyoming
+Afghanistan
+Albania
+Algeria
+American Samoa
+Andorra
+Angola
+Anguilla
+Antarctica
+Antigua and Barbuda
+Argentina
+Armenia
+Aruba
+Australia
+Austria
+Azerbaijan
+Bahamas
+Bahrain
+Bangladesh
+Barbados
+Belarus
+Belgium
+Belize
+Benin
+Bermuda
+Bhutan
+Bolivia
+Bosnia and Herzegovina
+Botswana
+Brazil
+Brunei Darussalam
+Bulgaria
+Burkina Faso
+Burundi
+Cambodia
+Cameroon
+Canada
+Cape Verde
+Cayman Islands
+Central African Republic
+Chad
+Chile
+China
+Christmas Island
+Cocos Islands
+Colombia
+Comoros
+Democratic Republic of the Congo
+Congo
+Cook Islands
+Costa Rica
+Ivory Coast
+Croatia
+Cuba
+Cyprus
+Czech Republic
+Denmark
+Djibouti
+Dominica
+Dominican Republic
+East Timor
+Ecuador
+Egypt
+El Salvador
+Equatorial Guinea
+Eritrea
+Estonia
+Ethiopia
+Falkland Islands
+Faroe Islands
+Fiji
+Finland
+France
+French Guiana
+French Polynesia
+French Southern Territories
+Gabon
+Gambia
+Georgia
+Germany
+Ghana
+Gibraltar
+Great Britain
+Greece
+Greenland
+Grenada
+Guadeloupe
+Guam
+Guatemala
+Guinea
+Guinea-Bissau
+Guyana
+Haiti
+Holy See
+Honduras
+Hong Kong
+Hungary
+Iceland
+India
+Indonesia
+Iran
+Iraq
+Ireland
+Israel
+Italy
+Jamaica
+Japan
+Jordan
+Kazakhstan
+Kenya
+Kiribati
+Korea
+Kosovo
+Kuwait
+Kyrgyzstan
+Lao
+Latvia
+Lebanon
+Lesotho
+Liberia
+Libya
+Liechtenstein
+Lithuania
+Luxembourg
+Macau
+Macedonia
+Madagascar
+Malawi
+Malaysia
+Maldives
+Mali
+Malta
+Marshall Islands
+Martinique
+Mauritania
+Mauritius
+Mayotte
+Mexico
+Micronesia
+Moldova
+Monaco
+Mongolia
+Montenegro
+Montserrat
+Morocco
+Mozambique
+Myanmar
+Burma
+Namibia
+Nauru
+Nepal
+Netherlands
+Netherlands Antilles
+New Caledonia
+New Zealand
+Nicaragua
+Niger
+Nigeria
+Niue
+Northern Mariana Islands
+Norway
+Oman
+Pakistan
+Palau
+Palestinian territories
+Panama
+Papua New Guinea
+Paraguay
+Peru
+Philippines
+Pitcairn Island
+Poland
+Portugal
+Puerto Rico
+Qatar
+Reunion Island
+Romania
+Russian Federation
+Rwanda
+Saint Kitts and Nevis
+Saint Lucia
+Saint Vincent and the Grenadines
+Samoa
+San Marino
+Sao Tome and Principe
+Saudi Arabia
+Senegal
+Serbia
+Seychelles
+Sierra Leone
+Singapore
+Slovakia
+Slovenia
+Solomon Islands
+Somalia
+South Africa
+South Sudan
+Spain
+Sri Lanka
+Sudan
+Suriname
+Swaziland
+Sweden
+Switzerland
+Syria
+Taiwan
+Tajikistan
+Tanzania
+Thailand
+Tibet
+Timor-Leste
+Togo
+Tokelau
+Tonga
+Trinidad and Tobago
+Tunisia
+Turkey
+Turkmenistan
+Turks and Caicos Islands
+Tuvalu
+Uganda
+Ukraine
+United Arab Emirates
+United Kingdom
+United States
+Uruguay
+Uzbekistan
+Vanuatu
+Vatican City State
+Venezuela
+Vietnam
+Virgin Islands
+Wallis and Futuna Islands
+Western Sahara
+Yemen
+Zambia
+Zimbabwe
+Wal-Mart Stores
+Exxon Mobil
+Chevron
+Phillips 
+Berkshire Hathaway
+Apple
+General Motors
+General Electric
+Valero Energy
+Ford Motor
+AT&T
+Fannie Mae
+CVS Caremark
+McKesson
+Hewlett-Packard
+Verizon Communications
+UnitedHealth Group
+JP Morgan Chase & Co
+Cardinal Health
+International Business Machines
+Bank of America Corp
+Costco Wholesale
+Kroger
+Express Scripts Holding
+Wells Fargo
+Citigroup
+Archer Daniels Midland
+Procter & Gamble
+Prudential Financial
+Boeing
+Freddie Mac
+AmerisourceBergen
+Marathon Petroleum
+Home Depot
+Microsoft
+Target
+Walgreen
+American International Group
+INTL FCStone
+MetLife
+Johnson & Johnson
+Caterpillar
+PepsiCo
+State Farm Insurance Cos
+ConocoPhillips
+Comcast
+WellPoint
+Pfizer
+Amazon.com
+United Technologies
+12 Angry Men
+12 Years a Slave
+2001: A Space Odyssey
+A Beautiful Mind
+A Christmas Story
+A Clockwork Orange
+A Separation
+Alien
+Aliens
+All About Eve
+Amadeus
+American Beauty
+American History X
+Amores Perros
+Amelie
+Annie Hall
+Apocalypse Now
+Back to the Future
+Barry Lyndon
+Batman Begins
+Beauty and the Beast
+Before Sunrise
+Before Sunset
+Ben-Hur
+Bicycle Thieves
+Black Swan
+Blade Runner
+Braveheart
+Butch Cassidy and the Sundance Kid
+Captain America: The Winter Soldier
+Casablanca
+Casino
+Castle in the Sky
+Chinatown
+Cinema Paradiso
+Citizen Kane
+City Lights
+City of God
+Cool Hand Luke
+Das Boot
+Diabolique
+Dial M for Murder
+Die Hard
+Django Unchained
+Dog Day Afternoon
+Donnie Darko
+Double Indemnity
+Downfall
+Dr Strangelove or: How I Learned to Stop Worrying and Love the Bomb
+Elite Squad: The Enemy Within
+Eternal Sunshine of the Spotless Mind
+Fanny and Alexander
+Fargo
+Fight Club
+Finding Nemo
+Fistful of Dollars
+For a Few Dollars More
+Forrest Gump
+Full Metal Jacket
+Gandhi
+Gladiator
+Gone with the Wind
+Good Will Hunting
+Goodfellas
+Gran Torino
+Grave of the Fireflies
+Gravity
+Groundhog Day
+Hachi: A Dog's Tale
+Harry Potter and the Deathly Hallows: Part 
+Heat
+Her
+High Noon
+Hotel Rwanda
+How to Train Your Dragon
+Howl's Moving Castle
+Ikiru
+In the Mood for Love
+In the Name of the Father
+Incendies
+Inception
+Indiana Jones and the Last Crusade
+Infernal Affairs
+Inglourious Basterds
+Into the Wild
+Ip Man
+It Happened One Night
+It's a Wonderful Life
+Jaws
+Judgment at Nuremberg
+Jurassic Park
+Kill Bill: Vol 
+LA Confidential
+La Dolce Vita
+La Haine
+La Strada
+Lagaan: Once Upon a Time in India
+Lawrence of Arabia
+Life Is Beautiful
+Life of Brian
+Like Stars on Earth
+Lock, Stock and Two Smoking Barrels
+Leon: The Professional
+M
+Mary and Max
+Memento
+Memories of Murder
+Metropolis
+Million Dollar Baby
+Modern Times
+Monsters, Inc
+Monty Python and the Holy Grail
+Mr Smith Goes to Washington
+My Neighbor Totoro
+Nausicaa of the Valley of the Wind
+Network
+No Country for Old Men
+North by Northwest
+Notorious
+Oldboy
+On the Waterfront
+Once Upon a Time in America
+Once Upon a Time in the West
+One Flew Over the Cuckoo's Nest
+Pan's Labyrinth
+Paths of Glory
+Persona
+Pirates of the Caribbean: The Curse of the Black Pearl
+Platoon
+Princess Mononoke
+Psycho
+Pulp Fiction
+Raging Bull
+Raiders of the Lost Ark
+Ran
+Rang De Basanti
+Rashomon
+Rear Window
+Rebecca
+Requiem for a Dream
+Reservoir Dogs
+Rocky
+Roman Holiday
+Rope
+Rush
+Saving Private Ryan
+Scarface
+Schindler's List
+Seen
+Seven Samurai
+Shutter Island
+Sin City
+Singin' in the Rain
+Slumdog Millionaire
+Snatch
+Some Like It Hot
+Spirited Away
+Stalag 
+Stalker
+Stand by Me
+Star Wars: Episode IV - A New Hope
+Star Wars: Episode V - The Empire Strikes Back
+Star Wars: Episode VI - Return of the Jedi
+Strangers on a Train
+Sunset Blvd
+Swades
+Taxi Driver
+Terminator 2: Judgment Day
+The  Blows
+The Apartment
+The Avengers
+The Battle of Algiers
+The Best Years of Our Lives
+The Big Lebowski
+The Big Sleep
+The Bourne Ultimatum
+The Bridge on the River Kwai
+The Celebration
+The Dark Knight
+The Dark Knight Rises
+The Deer Hunter
+The Departed
+The Diving Bell and the Butterfly
+The Elephant Man
+The General
+The Godfather
+The Godfather: Part II
+The Gold Rush
+The Good, the Bad and the Ugly
+The Graduate
+The Grand Budapest Hotel
+The Grapes of Wrath
+The Great Dictator
+The Great Escape
+The Green Mile
+The Help
+The Hunt
+The Hustler
+The Intouchables
+The Kid
+The Killing
+The King's Speech
+The Lego Movie
+The Lion King
+The Lives of Others
+The Lord of the Rings: The Fellowship of the Ring
+The Lord of the Rings: The Return of the King
+The Lord of the Rings: The Two Towers
+The Maltese Falcon
+The Matrix
+The Night of the Hunter
+The Pianist
+The Prestige
+The Princess Bride
+The Secret in Their Eyes
+The Seventh Seal
+The Shawshank Redemption
+The Shining
+The Silence of the Lambs
+The Sixth Sense
+The Sting
+The Terminator
+The Thing
+The Third Man
+The Treasure of the Sierra Madre
+The Truman Show
+The Usual Suspects
+The Wizard of Oz
+The Wolf of Wall Street
+There Will Be Blood
+Three Colors: Red
+To Kill a Mockingbird
+Touch of Evil
+Toy Story
+Toy Story 
+Trainspotting
+Twelve Monkeys
+Underground
+Unforgiven
+Up
+V for Vendetta
+Vertigo
+WALL-E
+Warrior
+Who's Afraid of Virginia Woolf?
+Wild Strawberries
+Witness for the Prosecution
+Yojimbo
+2014 FIFA World Cup Brazil
+Age of Wonders III
+Atelier Escha & Logy: Alchemists of the Dusk Sky
+Awesomenauts Assemble!
+Batman: Arkham Origins - Cold, Cold Heart
+BioShock Infinite: Burial at Sea - Episode Two
+BlazBlue: Chrono Phantasma
+Child of Light
+Danganronpa: Trigger Happy Havoc
+Dark Souls II
+Dead Nation: Apocalypse Edition
+Diablo III: Reaper of Souls
+Disney Magical World
+Don Bradman Cricket 14
+Donkey Kong Country: Tropical Freeze
+Escape Goat 2
+ETHER One
+Fez
+Final Fantasy X / X-2 HD Remaster
+Final Fantasy XIV Online: A Realm Reborn
+FRACT OSC
+God of War Collection
+Gunslugs
+Half Minute Hero: The Second Coming
+Hatsune Miku: Project Diva f
+Hearthstone: Heroes of Warcraft
+Inazuma Eleven
+inFamous: Second Son
+Infested Planet
+Kirby: Triple Deluxe
+Life Goes On
+Luftrausers
+Mario Golf: World Tour
+Mercenary Kings
+Metal Gear Solid V: Ground Zeroes
+Minecraft: PlayStation 3 Edition
+MLB 14: The Show
+NES Remix 2
+Outlast: Whistleblower
+Plants vs Zombies: Garden Warfare
+Professor Layton and the Azran Legacy
+Rayman Legends
+Resident Evil 4: Ultimate HD Edition
+Shadowrun: Dragonfall
+SMITE
+South Park: The Stick of Truth
+Sportsfriends
+Star Wars Pinball: Heroes Within
+SteamWorld Dig
+Stick it to the Man!
+Strider
+Tales of Symphonia Chronicles
+The Blackwell Epiphany
+The Last Federation
+The Last of Us: Left Behind
+The Last Tinker: City of Colors
+The Sly Collection
+The Walking Dead: Season Two Episode 2 - A House Divided
+The Wolf Among Us: Episode 3 - A Crooked Mile
+Titanfall
+Tower of Guns
+TowerFall Ascension
+Trials Fusion
+TxK
+Wargame: Red Dragon
+Warlock 2: The Exiled
+World of Tanks: Xbox 360 Edition
+Year Walk
+Yumi's Odd Odyssey
+Adam Levine
+Adele
+Alexander Skarsgard
+Ali Larter
+Alicia Keys
+Amanda Bynes
+Amanda Seyfried
+America Ferrera
+Amy Adams
+Amy Winehouse
+Andrew Garfield
+Angelina Jolie
+Anna Nicole Smith
+Anna Paquin
+Anne Hathaway
+Ashlee Simpson
+Ashley Greene
+Ashley Olsen
+Ashley Tisdale
+Ashton Kutcher
+Audrina Patridge
+Avril Lavigne
+Ben Affleck
+Bethenny Frankel
+Beyoncé Knowles
+Blake Lively
+Blake Shelton
+Brad Paisley
+Brad Pitt
+Bradley Cooper
+Britney Spears
+Brody Jenner
+Brooke Shields
+Bruce Willis
+Céline Dion
+Cameron Diaz
+Carmen Electra
+Carrie Underwood
+Cate Blanchett
+Catherine Zeta-Jones
+Chace Crawford
+Channing Tatum
+Charlie Sheen
+Charlize Theron
+Cheryl Burke
+Chris Brown
+Chris Hemsworth
+Chris Pine
+Christian Bale
+Christina Aguilera
+Christina Applegate
+Claire Danes
+Clay Aiken
+Colin Farrell
+Colin Firth
+Corbin Bleu
+Cory Monteith
+Courteney Cox
+Dakota Fanning
+Daniel Craig
+Daniel Radcliffe
+David Archuleta
+David Beckham
+David Cook
+Demi Lovato
+Demi Moore
+Denise Richards
+Denzel Washington
+Diddy
+Drew Barrymore
+Ed Westwick
+Elin Nordegren
+Elisabeth Hasselbeck
+Ellen DeGeneres
+Ellen Pompeo
+Emily Blunt
+Emma Stone
+Emma Watson
+Eva Longoria
+Eva Mendes
+Evan Rachel Wood
+Evangeline Lilly
+Faith Hill
+Fergie
+George Clooney
+Gerard Butler
+Gisele Bündchen
+Gwen Stefani
+Gwyneth Paltrow
+Halle Berry
+Hayden Panettiere
+Heath Ledger
+Heather Locklear
+Heidi Klum
+Heidi Montag
+Hilary Duff
+Hugh Jackman
+Isla Fisher
+Jake Gyllenhaal
+James Franco
+Jamie Lynn Spears
+Janet Jackson
+January Jones
+Jennifer Aniston
+Jennifer Garner
+Jennifer Hudson
+Jennifer Lawrence
+Jennifer Lopez
+Jenny McCarthy
+Jessica Alba
+Jessica Biel
+Jessica Chastain
+Jessica Simpson
+Jessica Szohr
+Joe Jonas
+Joel Madden
+John Krasinski
+John Mayer
+Johnny Depp
+Jon Hamm
+Jonas Brothers
+Jordin Sparks
+Josh Duhamel
+Josh Hartnett
+Josh Hutcherson
+Jude Law
+Julia Louis-Dreyfus
+Julia Roberts
+Julianne Hough
+Justin Bieber
+Justin Timberlake
+Kanye West
+Kate Beckinsale
+Kate Bosworth
+Kate Gosselin
+Kate Hudson
+Kate Middleton
+Kate Moss
+Kate Walsh
+Kate Winslet
+Katharine McPhee
+Katherine Heigl
+Katie Holmes
+Katy Perry
+Keanu Reeves
+Keira Knightley
+Keith Urban
+Kellan Lutz
+Kellie Pickler
+Kelly Clarkson
+Kelly Ripa
+Kendra Wilkinson
+Kenny Chesney
+Keri Russell
+Kerry Washington
+Kevin Federline
+Khloe Kardashian
+Kim Kardashian
+Kirsten Dunst
+Kirstie Alley
+Kourtney Kardashian
+Kris Allen
+Kristen Bell
+Kristen Stewart
+Kristin Cavallari
+Lady Gaga
+Lauren Conrad
+Lea Michele
+LeAnn Rimes
+Leighton Meester
+Leonardo DiCaprio
+Liam Hemsworth
+Lindsay Lohan
+Liv Tyler
+Lucy Liu
+Madonna
+Maggie Gyllenhaal
+Mandy Moore
+Mariah Carey
+Mario Lopez
+Mark Ballas
+Mark Wahlberg
+Mary-Kate Olsen
+Matt Damon
+Matthew McConaughey
+Megan Fox
+Michelle Obama
+Michelle Williams
+Mila Kunis
+Miley Cyrus
+Milo Ventimiglia
+Miranda Kerr
+Miranda Lambert
+Mischa Barton
+Naomi Campbell
+Naomi Watts
+Natalie Portman
+Neil Patrick Harris
+Nick Lachey
+Nicole Kidman
+Nicole Richie
+Olivia Wilde
+Oprah Winfrey
+Orlando Bloom
+Owen Wilson
+Pamela Anderson
+Paris Hilton
+Patrick Dempsey
+Paula Abdul
+Penelope Cruz
+Penn Badgley
+Pete Wentz
+Pink
+Pippa Middleton
+Prince Harry
+Prince William
+Queen Latifah
+Rachael Ray
+Rachel Bilson
+Rachel McAdams
+Rebecca Romijn
+Reese Witherspoon
+Renee Zellweger
+Rihanna
+Robert Downey Jr.
+Robert Pattinson
+Rooney Mara
+Rosario Dawson
+Rosie O'Donnell
+Rumer Willis
+Ryan Gosling
+Ryan Phillippe
+Ryan Reynolds
+Ryan Seacrest
+Salma Hayek
+Sandra Bullock
+Sandra Oh
+Sarah Jessica Parker
+Sarah Michelle Gellar
+Scarlett Johansson
+Selena Gomez
+Shakira
+Shania Twain
+Sheryl Crow
+Shia LaBeouf
+Sienna Miller
+Simon Cowell
+Sofia Vergara
+Taylor Hicks
+Taylor Lautner
+Taylor Momsen
+Taylor Swift
+Teri Hatcher
+Tiger Woods
+Tim McGraw
+Tina Fey
+Tom Brady
+Tom Cruise
+Tori Spelling
+Tyra Banks
+Usher
+Vanessa Hudgens
+Vanessa Minnillo
+Vanessa Williams
+Victoria Beckham
+Vince Vaughn
+Whitney Port
+Will Smith
+Winona Ryder
+Zac Efron
+Zoe Saldana
+Applebee's
+Arby's
+Bonanza Steakhouse
+Bonchon Chicken
+Buffalo Wild Wings
+Burger King
+Carl's Jr.
+Charley's Grilled Subs
+Chili's
+Chick-fil-A
+Chipotle Mexican Grill
+Corner Bakery Cafe
+coffeeheaven
+Costa Coffee
+Crepes & Waffles
+Delifrance
+Denny's
+Dome
+Din Tai Fung
+Domino's Pizza
+Dunkin Donuts
+Gloria Jean's Coffees
+Hamburguesas El Corral
+Hard Rock Cafe
+Hardee's
+Hooters
+In-N-Out Burger
+Jack Astor's Bar & Grill
+Jack in the Box
+Jollibee
+Juan Valdez Cafe
+The Keg
+Kenny Rogers Roasters
+KFC
+Krispy Kreme
+Little Caesars
+Loving Hut
+Marrybrown
+McDonald's
+MOS Burger
+Nando's
+Old Country Buffet
+Olive Garden
+Outback Steakhouse
+Panera Bread
+Papa John's Pizza
+Paris Baguette
+Perkins Restaurant & Bakery
+Pizza Express
+Pizza Hut
+Planet Hollywood
+Pollo Campero
+Ponderosa Steakhouse
+Popeyes Chicken & Biscuits
+Quiznos
+Rainforest Cafe
+Red Lobster
+Red Robin
+Ruby Tuesday
+Sarku Japan
+Secret Recipe
+Shakey's Pizza
+Sizzler
+Sonic Drive-In
+Starbucks
+Steak 'n Shake
+Subway
+Sweet Frog
+Swensen's
+Taco Bell
+Telepizza
+Tim Horton's
+T.G.I. Friday's
+Tony Roma's
+Wendy's
+Yogen Fruz
+Yoshinoya
