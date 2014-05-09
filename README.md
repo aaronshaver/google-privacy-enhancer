@@ -13,5 +13,5 @@ Installation and Usage
 1. Install Python 3.x on your machine: https://www.python.org/downloads/
 2. Install Selenium for Python: `pip install selenium` (note that Python 3.4+ should include pip)
 3. Install Firefox on your machine: http://www.mozilla.org/en-US/firefox/new/ (note that you can easily use other browsers such as Chrome; it's a one-line code change to use a different driver for Selenium)
-4. Run the script from your commanndline: script.py
+4. Run the script from your commanndline: `script.py`
 5. Let the script run for as long as you'd like. You could even have the script run a particular times of day (e.g. in the middle of your night) on a schedule if you don't want it interrupting you.
