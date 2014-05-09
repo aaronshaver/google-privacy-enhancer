@@ -17,4 +17,4 @@ Installation and Usage
 3. Install Firefox on your machine: http://www.mozilla.org/en-US/firefox/new/
   4. You can easily use other browsers such as Chrome. It's a one-line code change to use a different driver for Selenium; search for examples on the Web.
 4. Run the script from your commandline: `script.py`
-5. On your own system using Scheduled Tasks or other means, you might schedule the script to run for as long as you'd like. Set it to run at particular times of the day (e.g. in the middle of the night if you don't want it interrupting you), or if you'd prefer to have the search results look more human, you could start the script on random time intervals instead of large blocks of search data all at once.
+5. On your own system using Scheduled Tasks or other means, you might schedule the script to run for as long as you'd like. Set it to run at particular times of the day (e.g. in the middle of the night if you don't want it interrupting you), or if you'd prefer to have the search results look more human, you could start the script on random time intervals instead of having large blocks of search data show up all at once.
