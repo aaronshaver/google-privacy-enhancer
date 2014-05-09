@@ -16,5 +16,5 @@ Installation and Usage
   4. If Python isn't in your PATH, you might need to do something like `C:\Python34>Scripts\pip.exe install selenium`
 3. Install Firefox on your machine: http://www.mozilla.org/en-US/firefox/new/
   4. You can easily use other browsers such as Chrome. It's a one-line code change to use a different driver for Selenium; search for examples on the Web.
-4. Run the script from your commanndline: `script.py`
+4. Run the script from your commandline: `script.py`
 5. Let the script run for as long as you'd like. You could even have the script run at particular times of day (e.g. in the middle of your night) on a schedule if you don't want it interrupting you, or if you want to make the search windows look realistic as opposed to big blocks of searching at once.
