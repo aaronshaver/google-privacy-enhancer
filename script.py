@@ -5,9 +5,11 @@ import random
 import time
 
 class Preferences:
-    total_searches = 1000 # so script won't run forever if you forget about it
-    click_on_results = True # set to false if you don't want to follow links
+    click_on_results = True # set to False if you don't want to follow links
+    email = "" # leave empty if you don't wish to sign in
     max_delay_time = 10 # in seconds
+    password = "" # leave empty if you don't wish to sign in
+    total_searches = 1000 # so script won't run forever if you forget about it
 
 def setup_browser():
     firefox_profile = FirefoxProfile()
@@ -43,7 +45,7 @@ def go_to_google_main_page(driver):
 
 def click_on_result(driver, options):
     if randomly_perform_action() == True and options.click_on_results == True:
-            result_number = str(1)
+        result_number = str(1)
         selector = "li.g:nth-child("+ result_number + ") > div:nth-child(1) >" \
             " h3:nth-child(1) > a:nth-child(1)"
         result = driver.find_element_by_css_selector(selector)
@@ -51,13 +53,21 @@ def click_on_result(driver, options):
         random_delay(options)
         press_back(driver, options)
     else:
-            random_delay(options)
+        random_delay(options)
+
+def login_to_google_account(driver, options):
+    if options.email != "" and options.password != "":
+        driver.find_element_by_id("gb_70").click()
+        driver.find_element_by_id("Email").send_keys(options.email)
+        driver.find_element_by_id("Passwd").send_keys(options.password)
+        driver.find_element_by_id("signIn").click()
 
 def main():
     options = Preferences()
     driver = setup_browser()
     i = 0
     go_to_google_main_page(driver)
+    login_to_google_account(driver, options)
 
     while(i < options.total_searches):
         search_terms = str(i)
