@@ -4,7 +4,6 @@ import time
 
 def setup_browser():
     driver = webdriver.Firefox() # can easily be switched to other browsers, e.g. webdriver.Chrome()
-    go_to_google(driver)
     return driver
 
 def perform_search(driver, search_terms):
