@@ -15,7 +15,6 @@ Installation and Usage
   3. On Windows, Python 3.4.x will come with pip already
   4. On Mac OS X, try `sudo easy_install pip`
 3. Install Selenium for Python: `pip install selenium`
-  3. Python 3.4+ comes with pip
   4. If Python isn't in your PATH, you might need to do something like `C:\Python34>Scripts\pip.exe install selenium`
 4. Install Firefox on your machine: http://www.mozilla.org/en-US/firefox/new/
   4. You could use other browsers such as Chrome, but you'll need to figure out how to update the code to set the preferences for them.
