@@ -11,6 +11,7 @@ Installation and Usage
 ------------
 
 1. Install Python on your machine: https://www.python.org/downloads/
+  2. I developed with Python 2.7.5, so I'm not 100% sure if it'll work with 3.x
 2. Install pip:
   3. On Windows, Python 3.4.x will come with pip already
   4. On Mac OS X, try `sudo easy_install pip`
