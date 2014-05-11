@@ -7,7 +7,7 @@ import time
 class Preferences:
     click_on_results = True # set to False if you don't want to follow links
     email = "" # leave empty if you don't wish to sign in
-    max_delay_time = 10 # in seconds
+    max_delay_time = 15 # in seconds
     password = "" # leave empty if you don't wish to sign in
     total_searches = 1000 # so script won't run forever if you forget about it
 
@@ -45,7 +45,10 @@ def go_to_google_main_page(driver):
 
 def click_on_result(driver, options):
     if randomly_perform_action() == True and options.click_on_results == True:
-        driver.find_element_by_xpath("//*[@id='rso']//h3/a").click()
+        all_results = driver.find_elements_by_xpath("//div/h3/a")
+        result_to_click = random.randrange(0, len(all_results))
+        print result_to_click
+        all_results[result_to_click].click()
         random_delay(options)
         press_back(driver, options)
     else:
