@@ -46,11 +46,12 @@ def go_to_google_main_page(driver):
 def click_on_result(driver, options):
     if randomly_perform_action() == True and options.click_on_results == True:
         all_results = driver.find_elements_by_xpath("//div/h3/a")
-        result_to_click = random.randrange(0, len(all_results))
-        print result_to_click
-        all_results[result_to_click].click()
+        number_of_results = len(all_results)
+        if(number_of_results > 0):
+            result_to_click = random.randrange(0, number_of_results)
+            all_results[result_to_click].click()
+            press_back(driver, options)
         random_delay(options)
-        press_back(driver, options)
     else:
         random_delay(options)
 
@@ -61,16 +62,26 @@ def login_to_google_account(driver, options):
         driver.find_element_by_id("Passwd").send_keys(options.password)
         driver.find_element_by_id("signIn").click()
 
+def get_search_terms(word_list):
+    return word_list[0]
+
+def read_word_list_file():
+    text_file = open("word_list.txt", "r")
+    text = text_file.read().split('\n')
+    text_file.close()
+    return text
+
 def main():
     options = Preferences()
     driver = setup_browser()
+    word_list = read_word_list_file
     i = 0
+
     go_to_google_main_page(driver)
     login_to_google_account(driver, options)
 
     while(i < options.total_searches):
-        search_terms = str(i)
-        perform_search(driver, search_terms, options)
+        perform_search(driver, get_search_terms(word_list), options)
         click_on_result(driver, options)
         i+=1
 
