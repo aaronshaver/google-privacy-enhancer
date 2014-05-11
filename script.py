@@ -45,11 +45,7 @@ def go_to_google_main_page(driver):
 
 def click_on_result(driver, options):
     if randomly_perform_action() == True and options.click_on_results == True:
-        result_number = str(1)
-        selector = "li.g:nth-child("+ result_number + ") > div:nth-child(1) >" \
-            " h3:nth-child(1) > a:nth-child(1)"
-        result = driver.find_element_by_css_selector(selector)
-        result.click()
+        driver.find_element_by_xpath("//*[@id='rso']//h3/a").click()
         random_delay(options)
         press_back(driver, options)
     else:
