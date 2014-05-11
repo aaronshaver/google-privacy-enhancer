@@ -8,7 +8,7 @@ import time
 class Preferences:
     click_on_results = True # set to False if you don't want to follow links
     email = "" # leave empty if you don't wish to sign in
-    max_delay_time = 1 # in seconds
+    max_delay_time = 15 # in seconds
     max_search_terms = 4
     password = "" # leave empty if you don't wish to sign in
     total_searches = 1000 # so script won't run forever if you forget about it
