@@ -7,7 +7,7 @@ import time
 class Preferences:
     click_on_results = True # set to False if you don't want to follow links
     email = "" # leave empty if you don't wish to sign in
-    max_delay_time = 15 # in seconds
+    max_delay_time = 1 # in seconds
     password = "" # leave empty if you don't wish to sign in
     total_searches = 1000 # so script won't run forever if you forget about it
 
@@ -20,7 +20,10 @@ def setup_browser():
     return webdriver.Firefox(firefox_profile)
 
 def perform_search(driver, search_terms, options):
-    search_box = driver.find_element_by_id("gbqfq")
+    if "google.com" not in driver.current_url:
+        go_to_google_main_page(driver) # sites like Twitter break back button
+    search_locator = "gbqfq"
+    search_box = driver.find_element_by_id(search_locator)
     search_box.clear()
     search_box.send_keys(search_terms)
     search_box.send_keys(Keys.RETURN)
@@ -71,17 +74,20 @@ def read_word_list_file():
     text_file.close()
     return text
 
-def main():
-    options = Preferences()
-    driver = setup_browser()
-    word_list = read_word_list_file
-    i = 0
-
+def setup_google(driver, options):
     go_to_google_main_page(driver)
     login_to_google_account(driver, options)
 
+def main():
+    options = Preferences()
+    driver = setup_browser()
+    word_list = read_word_list_file()
+    setup_google(driver, options)
+
+    i = 0
     while(i < options.total_searches):
-        perform_search(driver, get_search_terms(word_list), options)
+        search_terms = get_search_terms(word_list)
+        perform_search(driver, search_terms, options)
         click_on_result(driver, options)
         i+=1
 
