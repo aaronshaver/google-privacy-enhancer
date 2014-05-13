@@ -90,17 +90,20 @@ def setup_google(driver, options):
     login_to_google_account(driver, options)
 
 def main():
-    options = Preferences()
-    driver = setup_browser()
-    word_list = read_word_list_file()
-    setup_google(driver, options)
-
     i = 0
-    while(i < options.total_searches):
-        search_terms = get_search_terms(word_list, options)
-        perform_search(driver, search_terms, options)
-        click_on_result(driver, options)
-        i+=1
+    try:
+        options = Preferences()
+        driver = setup_browser()
+        word_list = read_word_list_file()
+        setup_google(driver, options)
+
+        while(i < options.total_searches):
+            search_terms = get_search_terms(word_list, options)
+            perform_search(driver, search_terms, options)
+            click_on_result(driver, options)
+            i+=1
+    except KeyboardInterrupt:
+        print("Searching stopped. " + str(i) + " searches completed.")
 
 if __name__ == "__main__":
     main()
