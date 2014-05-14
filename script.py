@@ -72,7 +72,7 @@ def perform_search(driver, search_terms, options):
 
     terms_string = ""
     max_terms = random.randrange(2, options.max_search_terms + 1)
-    for i in xrange(max_terms):
+    for i in range(max_terms):
         terms_string += search_terms[i] + " "
     terms_string = terms_string.rstrip()
 
