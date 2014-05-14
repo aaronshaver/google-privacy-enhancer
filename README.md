@@ -11,9 +11,8 @@ Installation and Usage
 ------------
 
 1. Install Python on your machine: https://www.python.org/downloads/
-  2. I developed with Python 2.7.5, so I'm not 100% sure if it'll work with 3.x
-2. Install pip:
-  3. On Windows, Python 3.4.x will come with pip already
+  2. I developed with Python 2.7.5. In Python 3.4.x you'll get `NameError: name 'xrange' is not defined`.
+2. Install pip
   4. On Mac OS X, try `sudo easy_install pip`
 3. Install Selenium for Python: `pip install selenium`
   4. If Python isn't in your PATH, you might need to do something like `C:\Python34>Scripts\pip.exe install selenium`
