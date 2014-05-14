@@ -11,9 +11,9 @@ Installation and Usage
 ------------
 
 1. Install Python on your machine: https://www.python.org/downloads/
-  2. I developed with Python 2.7.5. In Python 3.4.x you'll get `NameError: name 'xrange' is not defined`.
 2. Install pip
-  4. On Mac OS X, try `sudo easy_install pip`
+  3. If you're using Python 3.4+, it already comes with pip
+  4. On Mac OS X (which currently has Python 2.7.5 installed with the OS), try `sudo easy_install pip`
 3. Install Selenium for Python: `pip install selenium`
   4. If Python isn't in your PATH, you might need to do something like `C:\Python34>Scripts\pip.exe install selenium`
 4. Install Firefox on your machine: http://www.mozilla.org/en-US/firefox/new/
