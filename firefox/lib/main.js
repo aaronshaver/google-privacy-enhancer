@@ -10,7 +10,7 @@ const { prefs } = require("sdk/simple-prefs");
 const ONE_SECOND = 1000;
 const ONE_MINUTE = ONE_SECOND * 60;
 
-const MAX_DELAY_TIME = 45 * ONE_SECOND;
+const MAX_DELAY_TIME = 45 * ONE_MINUTE;
 
 var timeoutId;
 var searches = 0;
@@ -35,7 +35,6 @@ function performSearch() {
   var term = storage.words[Math.floor(Math.random() * storage.words.length)];
   // build a URL from the Firefox Search Service
   var url = gSearch.getSubmission(term);
-  // console.log(term, "URL", url);
   // Create a page-worker to run our search service
   Page({
     contentScriptFile: data.url("search-worker.js"),
