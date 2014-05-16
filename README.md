@@ -21,3 +21,8 @@ Installation and Usage
   4. You could use other browsers such as Chrome, but you'll need to figure out how to update the code to set the preferences for them.
 5. Run the script from your commandline: `script.py`
 6. Optional: using Scheduled Tasks or other means, you might schedule the script to run for as long as you'd like. Set it to run at particular times of the day (e.g. in the middle of the night if you don't want it interrupting you), or if you'd prefer to have the search results look more human, you could start the script at random time intervals instead of having large blocks of search data show up all at once.
+
+Firefox Add-on
+------------
+
+The Firefox add-on was not written by me. I haven't yet tested it yet. It's by https://github.com/clarkbw/, so please direct questions to him.
