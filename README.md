@@ -25,4 +25,4 @@ Installation and Usage
 Firefox Add-on
 ------------
 
-The Firefox add-on was not written by Aaron Shaver. I haven't yet tested it yet. It's by Bryan Clark. Please direct questions about the add-on to him at https://github.com/clarkbw/.
+The Firefox add-on was not written by Aaron Shaver. It was written by Bryan Clark. Please direct questions about the add-on to him at https://github.com/clarkbw/.
