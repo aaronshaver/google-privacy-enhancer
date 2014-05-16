@@ -1,0 +1,26 @@
+{
+  "name": "googleprivacyenhancer",
+  "title": "GooglePrivacyEnhancer",
+  "id": "jid1-jimywUsOkP2JjQ",
+  "description": "Performs random Google searches and clicks on links",
+  "author": "",
+  "license": "MPL 2.0",
+  "version": "0.1",
+  "dependencies": [
+      "browser-search-engine"
+  ],
+  "preferences": [{
+      "name": "clickOnResults",
+      "title": "Click on search result links",
+      "description": "Follow a link from the search results page, otherwise you are just performing searches",
+      "type": "bool",
+      "value": true
+  },
+  {
+      "name": "totalSearches",
+      "title": "Max Searches",
+      "description": "The maximum number of searches to run per session.",
+      "type": "integer",
+      "value": 1000
+  }]
+}

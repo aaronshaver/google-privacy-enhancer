@@ -1,0 +1,3 @@
+[submodule "firefox/packages/browser-search-engine"]
+	path = firefox/packages/browser-search-engine
+	url = git@github.com:clarkbw/browser-search-engine.git
